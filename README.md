@@ -1,10 +1,11 @@
-VirtualStage
+VirtualStage (Project for the course Applications in Virtual Reality)
 ===
-Project for the course Applications in Virtual Reality. 
-Please refer to the Project report in the pdf. It provides detailed info on how to setup and extend the project.
+It is about controlling an avatar (main character) in a virtual world using Kinect SDK and syncing its pose and movements across multiple Unity clients (audiences). A Kinect WPF application receives raw Kinect data of a human body standing in front of the Kinect, processes it using the Kinect SDK libraries and then communicates it to a Unity server instance to control the Avatar in the Unity world. All the Unity clients sync the position of the avatar from the server. One of the Unity clients acts as the Avatar and the rest are all Audience in the virtual world. 
 
 Setting up the workstation and Running the project:
 ---
+Please refer to the Project report in the pdf. It provides detailed info on how to setup and extend the project.
+
 For setting up the machines, please ensure that they meet the minimum requirements as stated in the Input/Output section of the Project Documentation PDF.
 
 For Developers and Testers of the System: 
