@@ -1,6 +1,6 @@
 VirtualStage
 ===
-Project for Applications in Virtual Reality
+Project for the course Applications in Virtual Reality. 
 Please refer to the Project report in the pdf. It provides detailed info on how to setup and extend the project.
 
 Setting up the workstation and Running the project:
