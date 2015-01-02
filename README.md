@@ -1,12 +1,15 @@
 VirtualStage
-============
+===
 Project for Applications in Virtual Reality
+Please refer to the Project report in the pdf. It provides detailed info on how to setup and extend the project.
 
-Please refer to the Project report in the pdf. It provides details on how to setup and extend the project.
+Setting up the workstation and Running the project:
+---
+For setting up the machines, please ensure that they meet the minimum requirements as stated in the Input/Output section of the Project Documentation PDF.
 
 For Developers and Testers of the System: 
-====
-	Assumes running the client and server Unity instances on the same machine. The Clients-Server Unity architecture will easily extend to multiple machines. Visual Studio’s WPF application is also on the same machine.
+---
+(Assumes running the client and server Unity instances on the same machine. The Clients-Server Unity architecture will easily extend to multiple machines. Visual Studio’s WPF application is also on the same machine.)
 
 1. The Computer should have the minimum requirements as stated in Input/Output section. 
 2. Start at least two Unity instances each pointing to two different copies of the original project. One will serve as the server and the other will serve as the client.
